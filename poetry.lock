@@ -1,0 +1,20 @@
+[[package]]
+name = "poetry-sub"
+version = "0.1.0"
+description = ""
+category = "main"
+optional = false
+python-versions = "^3.10"
+develop = false
+
+[package.source]
+type = "directory"
+url = "poetry-sub"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.10"
+content-hash = "d089d04351e8dd5d45ee27367ee43b8f13c5a1168cdda364db276c3b5042dd0a"
+
+[metadata.files]
+poetry-sub = []
